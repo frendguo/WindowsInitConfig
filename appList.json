@@ -1,0 +1,152 @@
+{
+	"$schema" : "https://aka.ms/winget-packages.schema.2.0.json",
+	"CreationDate" : "2022-05-24T11:48:46.502-00:00",
+	"Sources" : 
+	[
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2019.Enterprise"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudio.2022.Enterprise-Preview"
+				},
+				{
+					"PackageIdentifier" : "Bandisoft.Bandizip"
+				},
+				{
+					"PackageIdentifier" : "ScooterSoftware.BeyondCompare4"
+				},
+				{
+					"PackageIdentifier" : "Canonical.Ubuntu"
+				},
+				{
+					"PackageIdentifier" : "Telerik.Fiddler.Classic"
+				},
+				{
+					"PackageIdentifier" : "Fork.Fork"
+				},
+				{
+					"PackageIdentifier" : "Git.Git"
+				},
+				{
+					"PackageIdentifier" : "Tonec.InternetDownloadManager"
+				},
+				{
+					"PackageIdentifier" : "Bopsoft.Listary.Beta"
+				},
+				{
+					"PackageIdentifier" : "CrystalRich.LockHunter"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.Edge"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.EdgeWebView2Runtime"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsTerminal.Preview"
+				},
+				{
+					"PackageIdentifier" : "JanDeDobbeleer.OhMyPosh"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OneDrive"
+				},
+				{
+					"PackageIdentifier" : "Daum.PotPlayer"
+				},
+				{
+					"PackageIdentifier" : "SumatraPDF.SumatraPDF"
+				},
+				{
+					"PackageIdentifier" : "CrystalIDEASoftware.UninstallTool"
+				},
+				{
+					"PackageIdentifier" : "Tencent.WeChat"
+				},
+				{
+					"PackageIdentifier" : "Tencent.TencentMeeting"
+				},
+				{
+					"PackageIdentifier" : "Fndroid.ClashForWindows"
+				},
+				{
+					"PackageIdentifier" : "Notion.Notion"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OpenJDK.11"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x64"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.OpenJDK.11"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WindowsSDK"
+				},
+				{
+					"PackageIdentifier" : "Telegram.TelegramDesktop"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.CLRTypesSQLServer.2019"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.DotNet.SDK.6"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.PowerShell.Preview"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VisualStudioCode"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.VC++2015-2022Redist-x86"
+				},
+				{
+					"PackageIdentifier" : "VMware.WorkstationPro"
+				},
+				{
+					"PackageIdentifier" : "icsharpcode.ILSpy"
+				},
+				{
+					"PackageIdentifier" : "Microsoft.WebDeploy"
+				},
+				{
+					"PackageIdentifier" : "Tencent.wechat-work"
+				},
+				{
+					"PackageIdentifier" : "NetEase.CloudMusic"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://winget.azureedge.net/cache",
+				"Identifier" : "Microsoft.Winget.Source_8wekyb3d8bbwe",
+				"Name" : "winget",
+				"Type" : "Microsoft.PreIndexed.Package"
+			}
+		},
+		{
+			"Packages" : 
+			[
+				{
+					"PackageIdentifier" : "9P7KNL5RWT25"
+				}
+			],
+			"SourceDetails" : 
+			{
+				"Argument" : "https://storeedgefd.dsx.mp.microsoft.com/v9.0",
+				"Identifier" : "StoreEdgeFD",
+				"Name" : "msstore",
+				"Type" : "Microsoft.Rest"
+			}
+		}
+	],
+	"WinGetVersion" : "1.3.692-preview"
+}
